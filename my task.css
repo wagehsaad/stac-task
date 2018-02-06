@@ -1,0 +1,104 @@
+body
+{
+    height:500;
+    width: 1500;
+    
+
+}
+
+ .big 
+{
+    background-position: center;
+    
+    width:1500;
+    height:395;
+    display: flex;
+    border-style:solid;
+   
+    
+ }
+
+.car1
+{
+  
+    width: 300;
+    height: 300;
+    border-bottom-color: black;
+    border-bottom-width: thick;
+    margin-left: 50;
+    
+        
+ 
+}
+.para1
+{
+     
+    text-align: center;
+    width: 300;
+    height: 320;
+    
+    border-style: solid;
+    border-color: gold;
+    
+    margin-left: 50;
+    margin-right: 50;
+    margin-top: 50;
+}
+.car2 form
+{
+
+    width: 300;
+    height: 300;
+    margin: 50;
+ 
+
+}
+.para2
+{
+    
+    text-align: center;
+   width: 300;
+    height: 320;
+    
+    border-style: solid;
+    border-color: gold;
+    
+    margin-left: 50;
+    margin-right: 50;
+    margin-top: 50;
+}
+.button1
+{
+    width: 150;
+    height: 50;
+    font-size: 20;
+    color: white;
+    background-color: black;
+    
+    
+}
+
+
+.button2
+{
+     width: 150;
+    height: 50;
+    font-size: 20;
+    color: white;
+    background-color: black;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+}
